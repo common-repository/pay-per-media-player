@@ -1,0 +1,5 @@
+<?php
+
+$currency = "USD";
+
+?>

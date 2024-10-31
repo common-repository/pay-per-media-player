@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<list>
+
+<item>
+<var1><![CDATA[PayPer Media Demo]]></var1>
+<var2><![CDATA[payper1]]></var2>
+<var3><![CDATA[http://html5.svnlabs.com/preview.mp4]]></var3>
+<var4><![CDATA[http://www.svnlabs.com/wp-content/themes/echoes/images/main/portfolio2.jpg]]></var4>
+</item>
+
+
+<item>
+<var1><![CDATA[PayPer Media Demo]]></var1>
+<var2><![CDATA[payper2]]></var2>
+<var3><![CDATA[svnlab_1314359827_biz@gmail.com]]></var3>
+<var4><![CDATA[0.01]]></var4>
+</item>
+
+
+<item>
+<var1><![CDATA[PayPer Media Demo]]></var1>
+<var2><![CDATA[payper3]]></var2>
+<var3><![CDATA[http://svnlabs.my.phpcloud.com/PayPer.mp4]]></var3>
+<var4><![CDATA[http://www.svnlabs.com/wp-content/themes/echoes/images/main/portfolio1.jpg]]></var4>
+</item>
+
+</list>
